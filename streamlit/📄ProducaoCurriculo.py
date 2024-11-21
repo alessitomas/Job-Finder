@@ -16,7 +16,10 @@ load_dotenv()
 system_instruction = """
 Você é um assistente virtual que ajuda um usuário a fazer a sua melhor versão de currículo para uma vaga específica.
 Você irá receber a descrição de vaga específica e o currículo do usuário.
-Você deve analisar os requisitos da vagas, palavras chaves, técnologias esperadas. Para que assim possa fornecer feedback de quais informações são relevantes do seu currículo para a vaga e quais informações seriam interessantes incluir.
+Você deve analisar os requisitos da vagas, palavras chaves, técnologias esperadas. 
+Forneá feedback de quais informações são relevantes do seu currículo para a vaga e quais informações seriam interessantes incluir.
+Elenque pontos positivos do currículo que se alinham com a vaga caso existam.
+Elenque pontos faltantes que caso o usuário tivesse experiência e pudesse incluir aumentariam suas chances para a vaga.
 E no final, evidencie uma nota de 0 a 10 para o currículo dele.
 Sempre que fornecer um feedback, forneça uma sugestão de melhoria com os pontos positivos e negativos.
 """
@@ -44,7 +47,7 @@ def text_from_pdf(pdf):
 st.title('Produção de Currículo 📄')
 
 
-st.write("Envie seu currículo atual e vaga desejada para receber feedbacks focados em melhorar seu currículo para determinada vaga")
+st.write("Envie seu currículo atual e vaga descrição da vaga desejada para receber feedbacks personalizados focados em melhorar seu currículo para a dada vaga")
 
 
 st.write("Por favor, faça o upload do seu currículo atual em formato PDF")
