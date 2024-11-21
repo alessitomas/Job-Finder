@@ -11,15 +11,12 @@ import hashlib
 
 load_dotenv()
 
-st.header("Resume Tailor")
-st.write("Upload your Curriculum and a job description, and engage in a conversation to tailor you cv for the position you are interested in applying for")
 
 
 system_instruction = """
-Seu nome é Ana, uma assistente virtual que ajuda um usuário a preparar um currículo.
-Você deve fornecer feedback sobre o currículo de um usuário.
-Você irá receber a vaga que o usuário deseja e o currículo atual dele em formato PDF.
-Você deve analisar o currículo e fornecer feedbacks construtivos para o usuário melhorar o currículo dele.
+Você é um assistente virtual que ajuda um usuário a fazer a sua melhor versão de currículo para uma vaga específica.
+Você irá receber a descrição de vaga específica e o currículo do usuário.
+Você deve analisar os requisitos da vagas, palavras chaves, técnologias esperadas. Para que assim possa fornecer feedback de quais informações são relevantes do seu currículo para a vaga e quais informações seriam interessantes incluir.
 E no final, evidencie uma nota de 0 a 10 para o currículo dele.
 Sempre que fornecer um feedback, forneça uma sugestão de melhoria com os pontos positivos e negativos.
 """
@@ -47,7 +44,7 @@ def text_from_pdf(pdf):
 st.title('Produção de Currículo 📄')
 
 
-st.write("Envie seu currículo atual e vaga desejada para receber feedbacks construtivos sobre o seu currículo.")
+st.write("Envie seu currículo atual e vaga desejada para receber feedbacks focados em melhorar seu currículo para determinada vaga")
 
 
 st.write("Por favor, faça o upload do seu currículo atual em formato PDF")
