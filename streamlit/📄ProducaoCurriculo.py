@@ -2,11 +2,11 @@ import streamlit as st
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
-import time
+
 from PyPDF2 import PdfReader
 
 from pathlib import Path
-import hashlib
+
 
 
 load_dotenv()
@@ -47,10 +47,10 @@ def text_from_pdf(pdf):
 st.title('Produção de Currículo 📄')
 
 
-st.write("Envie seu currículo atual e vaga descrição da vaga desejada para receber feedbacks personalizados focados em melhorar seu currículo para a dada vaga")
+st.write("Envie seu currículo atual e vaga descrição da vaga desejada para receber feedbacks personalizados focados em melhorar seu currículo para a dada vaga.")
 
 
-st.write("Por favor, faça o upload do seu currículo atual em formato PDF")
+st.write("Por favor, faça o upload do seu currículo atual em formato PDF.")
 cv = st.file_uploader("Upload do currículo", type=['pdf'])
 
 
