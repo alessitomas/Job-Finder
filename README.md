@@ -3,16 +3,16 @@
 <img src="https://github.com/user-attachments/assets/6ad11723-5c95-4275-aaac-1ac339e888c4" width="50%" />
 </div>
 
+
+## You can access the palftorm in the following link: 
+
+**[RemuseTailor](https://resumetailor.streamlit.app/)**
+
 ## Project Overview
 
 
-You can access the palftorm in the following link: 
-
-[RemuseTailor](https://resumetailor.streamlit.app/)
-
-
-
 **CV Tailor** is an innovative tool designed to assist job seekers in tailoring their resumes for specific job positions. By analyzing the job description and comparing it to the user's uploaded resume, the system provides personalized feedback to enhance the resume's alignment with the job requirements. This tool goes beyond generic resume improvement tips, focusing instead on providing actionable, role-specific insights, particularly helpful for career changers or those applying for niche roles.
+
 
 ### Features:
 1. **Upload Resume (PDF)**: Users can upload their resume in PDF format.
