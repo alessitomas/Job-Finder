@@ -1,6 +1,7 @@
 # CV Tailor
-
-![image](https://github.com/user-attachments/assets/6ad11723-5c95-4275-aaac-1ac339e888c4)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/6ad11723-5c95-4275-aaac-1ac339e888c4" width="50%" />
+</div>
 
 ## Project Overview
 
@@ -42,9 +43,24 @@ Finding a job can be challenging, particularly when transitioning between career
 ### User Study Results:
 1. **Sample Size**: Feedback from 10 users who tested the tool was collected.
 2. **Metrics**:
-   - **User Satisfaction**: Average satisfaction score of 8.5/10.
-   - **Ease of Use**: 90% found the tool easy to use.
-   - **Time Saved**: Users reported a 30-50% reduction in time tailoring resumes.
+   - **User Satisfaction**: Average satisfaction score of 8.5/10.  
+   <div align="center">
+   <img src="https://github.com/user-attachments/assets/981230b3-c826-4c5d-af23-7db3268b0fba" width="300" />
+   </div>
+
+   
+   - **Ease of Use**: 90% found the tool easy to use.  
+   <div align="center">
+   <img src="https://github.com/user-attachments/assets/7dea3fb8-6602-4b68-9f08-8dc5464fd584" width="300" />
+   </div>
+
+   
+   - **Time Saved**: Users reported a 30-50% reduction in time spent tailoring resumes.
+   <div align="center">
+   <img src="https://github.com/user-attachments/assets/2e4230f1-14a3-473b-88e9-e729c85befb3" width="300" />
+   </div>
+
+
 
 ### Key Feedback:
 - Users appreciated the specificity of suggestions and the scoring mechanism.
