@@ -60,6 +60,13 @@ Finding a job can be challenging, particularly when transitioning between career
    <img src="https://github.com/user-attachments/assets/2e4230f1-14a3-473b-88e9-e729c85befb3" width="300" />
    </div>
 
+   - **Hallucination Evaluation Result**: 30% of users felt the tool provided inaccurate or made-up information.
+This suggests that a notable portion of users encountered issues with the tool's accuracy, which could impact trust. Improving the tool’s ability to provide reliable and fact-based responses should be a priority to enhance user confidence.
+   <div align="center">   
+   <img src="https://github.com/user-attachments/assets/4410066b-1b02-4cb5-bd00-c82cc9a54532" width="300" />
+   </div>
+
+
 
 
 ### Key Feedback:
