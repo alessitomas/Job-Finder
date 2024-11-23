@@ -1,7 +1,4 @@
 # Resume Tailor
-<div align="center">
-<img src="https://github.com/user-attachments/assets/6ad11723-5c95-4275-aaac-1ac339e888c4" width="50%" />
-</div>
 
 ## Demo Pitch
 
