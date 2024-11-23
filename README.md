@@ -1,7 +1,11 @@
-# CV Tailor
+# Resume Tailor
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6ad11723-5c95-4275-aaac-1ac339e888c4" width="50%" />
 </div>
+
+## Demo Pitch
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/sCLUbZMD9WU/0.jpg)](https://youtu.be/sCLUbZMD9WU)
 
 
 ## You can access the palftorm in the following link: 
